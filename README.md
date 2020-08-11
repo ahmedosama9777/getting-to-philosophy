@@ -1,2 +1,3 @@
 # getting-to-philosophy
-Automating the getting to philosophy phenomena. Saving your fingers.
+Automating the getting to philosophy phenomena.
+
