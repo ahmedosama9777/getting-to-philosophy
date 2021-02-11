@@ -1,5 +1,5 @@
 # Getting to philosophy page on Wikipedia
-Automating the getting to philosophy phenomena.
+Automating the Wikipedia getting to philosophy phenomena.
 
 ### Requirements to run the project:
 ``` pip install bs4 ```
